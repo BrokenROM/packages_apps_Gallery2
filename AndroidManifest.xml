@@ -29,14 +29,11 @@
     <permission android:name="com.android.gallery3d.permission.GALLERY_PROVIDER"
             android:protectionLevel="signatureOrSystem" />
 
-<<<<<<< HEAD
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-=======
     <permission android:name="com.android.gallery3d.permission.STORAGE_CHANGE"
             android:protectionLevel="signatureOrSystem" />
 
->>>>>>> b3d0bd3... Gallery: runtime permission check
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
